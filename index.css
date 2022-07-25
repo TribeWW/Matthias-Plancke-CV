@@ -2,9 +2,17 @@ html {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+h2 {
+  margin-bottom: 3rem;
+}
+
 .profile-image {
   height: 10rem;
   width: 10rem;
   border-radius: 50%;
   object-fit: cover;
+}
+
+.functional-expertise {
+  padding-left: 2rem;
 }
